@@ -113,7 +113,7 @@ set wildmenu
 set cm=blowfish2
 
 " global clipboard
-set clipboard=unnamedplus
+set clipboard=unnamed
 
 " prevent linebreak within word
 set lbr
